@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Bases de datos documentales | Estas bases de datos permiten que cada documento tenga su propia estructura, lo que resuelve la necesidad de campos opcionales y variables
