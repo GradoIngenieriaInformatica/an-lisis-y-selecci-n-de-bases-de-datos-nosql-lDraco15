@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Bases de datos de grafos | Este tipo de base de datos está específicamente diseñada para manejar relaciones complejas entre entidades
